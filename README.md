@@ -19,7 +19,8 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 3. Decision Tree
 
 ## Conclusion
-
+- More on machine learning and the different models
+- Uploading and navigating github
 
 
 ## What did we learn from this project?
