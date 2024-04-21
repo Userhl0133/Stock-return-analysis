@@ -24,9 +24,9 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 
 ## What did we learn from this project?
- - More on machine learning and the different models
-- Using different metrics to measure accuracy of models
-- Uploading and navigating github
+ - More on machine learning and the different models.
+- Using different metrics to measure accuracy of models.
+- Uploading and navigating github.
 
 ## References
 
