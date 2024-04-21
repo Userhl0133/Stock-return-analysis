@@ -19,13 +19,14 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 3. Decision Tree
 
 ## Conclusion
-- More on machine learning and the different models
-- Uploading and navigating github
+- Decision Tree has highest accuracy.
+- Enhancements did not work in some cases.
 
 
 ## What did we learn from this project?
-
-- 
+ - More on machine learning and the different models
+- Using different metrics to measure accuracy of models
+- Uploading and navigating github
 
 ## References
 
