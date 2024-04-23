@@ -4,7 +4,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 1. [Data Cleaning](https://github.com/Userhl0133/Stock-return-analysis/blob/main/Part%201_Data_Preparation_Cleaning.ipynb)
 2. [Exploratory Data Analysis](https://github.com/Userhl0133/Stock-return-analysis/blob/main/Part_2_EDA.ipynb)
-3. [Model Analysis]
+3. [Model Analysis](https://github.com/Userhl0133/Stock-return-analysis/blob/main/Part3_Model%20Selection.ipynb)
 
 ## Problem Definition
 
